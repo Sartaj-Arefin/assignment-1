@@ -30,7 +30,7 @@ margin: 50px 150px;}
     background-color: burlywood;
 }
 .hdr {
-    background-image: url(/B12A01-landing-launchpad/Assets/Hero-bg.png);
+    background-image: url('B12A01-landing-launchpad/Assets/Hero-bg.png');
     width: 100%;
     max-height: fit-content;
 }
