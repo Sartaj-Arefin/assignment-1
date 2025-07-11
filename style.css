@@ -84,3 +84,25 @@ font-size: 35px;
     display: flex;
     justify-content: space-around;
  }
+ .title-touch {
+    font-size: 80px;
+    justify-content: center;
+    padding: 150px 20px;
+ }
+ .touch {
+    display: flex;
+    margin: 200px;
+    justify-content: space-between;
+ }
+ .form{
+    padding: 71px 0;
+ }
+input[type="text"], input[type="email"], textarea {
+ height: 64px;
+    border-radius: 5px;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+}
